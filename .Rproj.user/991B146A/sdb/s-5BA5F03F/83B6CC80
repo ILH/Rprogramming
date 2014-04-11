@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1397138782962.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "83B6CC80",
+    "lastKnownWriteTime" : 31525678432190511,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "q20set",
+        "contentUrl" : "content?title=q20set&file=2feea19373644302a766269e75979212.htm",
+        "displayedObservations" : 31,
+        "displayedVariables" : 6,
+        "totalObservations" : 31,
+        "variables" : 6
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

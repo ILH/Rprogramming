@@ -1,0 +1,17 @@
+{
+    "contents" : "# last expression will be returned\nadd2 <- function(x, y){\n  X + y\n}\n\nabove10 <- function(x) {\n  use <- x > 10\n  x[use]\n}\n\nabove <- function(x,n = 10) {\n  use <- x > n\n  x[use] \n}\n\ncolumnmean <- function(y, removeNA = TRUE) {\n  nc <- ncol(y)\n  means <- numeric(nc)\n  for (i in 1:nc) {\n    means[i] <- mean(y[,i], na.rm = removeNA)\n  }\n  means\n}\n\nlm <- function(x) {\n  x * x\n}\n\n",
+    "created" : 1397185108315.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "528739811",
+    "id" : "354CD85B",
+    "lastKnownWriteTime" : 1397189095,
+    "path" : "F:/SkyDrive/Studying/JohnsH/specificationDataScienceJohnsHopkins/Rprogramming/lessonCodes/week02.R",
+    "project_path" : "lessonCodes/week02.R",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

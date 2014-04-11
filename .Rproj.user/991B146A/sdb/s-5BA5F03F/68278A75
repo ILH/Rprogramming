@@ -1,0 +1,17 @@
+{
+    "contents" : "# Lazy rule\ncube <- function(x, n) {\n  x^3\n}\n\nx <- 1:10\nif(x > 5) {\n  x <- 0\n}\n\nf <- function(x) {\n  g <- function(y) {\n    y + z\n  }\n  z <- 4\n  x + g(x)\n}\nz <- 10\nf(3)\n\n# q04\nx <- 5\ny <- if(x < 3) {\n  NA\n} else {\n  10\n}\ny",
+    "created" : 1397189097219.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1492323915",
+    "id" : "68278A75",
+    "lastKnownWriteTime" : 1397189132,
+    "path" : "F:/SkyDrive/Studying/JohnsH/specificationDataScienceJohnsHopkins/Rprogramming/quiz01/quiz02.R",
+    "project_path" : "quiz01/quiz02.R",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

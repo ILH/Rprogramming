@@ -1,0 +1,17 @@
+{
+    "contents" : "swirl()\nmyData <- file.path(find.package(\"swirl\"), \"user_data\", \"ShunZhu\")\nfile.edit(file.path(myData, \"R_Programming.txt\"))\ndir(myData)\ntemp <- c(\"zhusun0008@gmail.com\", \"QnjHk86PFg\")\nwriteLines(temp, file.path(find.package(\"swirl\"),\"user_data\",\"ShunZhu\", \"R_Programming.txt\"))\n",
+    "created" : 1397139296526.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "2001355816",
+    "id" : "778D01CC",
+    "lastKnownWriteTime" : 7594005074706252910,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
